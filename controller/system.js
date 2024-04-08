@@ -9,3 +9,4 @@ const ping = (req, res) => {
 };
 
 export {ping};
+
